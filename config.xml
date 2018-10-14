@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.winixeg.mastersmobile"
+        id        = "com.winixeg.smei"
         versionCode = "20190"
         version   = "3.3.1">
-    <name>Masters Mobile</name>
+    <name>SME International School</name>
 
     <description>
-        Masters Mobile official app
+        SME International School
     </description>
 
     <author href="http://winix-eg.com" email="info@winix-eg.com">
-        Masters Mobile team
+        Winix Mobile team
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
